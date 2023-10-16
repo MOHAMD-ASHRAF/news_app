@@ -1,6 +1,6 @@
 # news
 
-A new Flutter project.
+Developed a news application that features a variety of news content, including sports, from a diverse range of destinatio
 
 ## Getting Started
 
