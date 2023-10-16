@@ -1,6 +1,6 @@
 # news
 
-Developed a news application that features a variety of news content, including sports, from a diverse range of destinatio
+Developed a news application that features a variety of news content, including sports, from a diverse range of destinations.
 
 ## Getting Started
 
